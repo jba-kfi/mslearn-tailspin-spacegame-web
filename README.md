@@ -1,6 +1,8 @@
 
 [![Build Status](https://dev.azure.com/jbakfi/Space%20Game%20-%20Web%20-%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jbakfi/Space%20Game%20-%20Web%20-%20Workflow/_build/latest?definitionId=2&branchName=master)
 
+[![Board Status](https://dev.azure.com/jbakfi/8bdf992d-926e-40b7-91d5-40502ff6544b/85b6da8c-066a-4c14-bd44-9aa88fd91a71/_apis/work/boardbadge/e38ed6a1-098d-493e-852a-a955b5cb7269?columnOptions=1)](https://dev.azure.com/jbakfi/8bdf992d-926e-40b7-91d5-40502ff6544b/_boards/board/t/85b6da8c-066a-4c14-bd44-9aa88fd91a71/Microsoft.RequirementCategory/)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
