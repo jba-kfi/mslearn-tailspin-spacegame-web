@@ -33,16 +33,6 @@ steps:
   workingDirectory: $(wwwrootDir)
 
 - task: DotNetCoreCLI@2
-  displayName: 'dotnet test jba publish'
-  inputs:
-    command: publish
-    publishWebProjects: false
-    projects: '**/*.csproj'
-    arguments: '-o Tailspin.SpaceGame.Web.Tests'
-    zipAfterPublish: false
-    modifyOutputPath: true
-
-- task: DotNetCoreCLI@2
   displayName: 'Restore project dependencies'
   inputs:
     command: 'restore'
