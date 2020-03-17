@@ -38,7 +38,7 @@ steps:
     command: publish
     publishWebProjects: false
     projects: '**/*.csproj'
-    arguments: '-o testpath'
+    arguments: '-o Tailspin.SpaceGame.Web.Tests'
     zipAfterPublish: false
     modifyOutputPath: true
 
